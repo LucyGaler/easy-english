@@ -1110,7 +1110,7 @@ $100.
 
 That one is a little out of my budget. Do you have anything in the fifty-dollar range?
 
-Of course. We have this vase full of pink and yellow roses for $49. Or this vase for $40. It doesn't include any roses. But it has other gorgeous flowers. It really brightens up the room, don't you think?
+Of course. We have this vase full of pink and yellow roses for 49 dollars. Or this vase for 40 dollars. It doesn't include any roses. But it has other gorgeous flowers. It really brightens up the room, don't you think?
 
 That bouquet looks indeed unique. I think my wife would really enjoy it. I'll take it.
 
