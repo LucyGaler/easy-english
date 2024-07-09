@@ -1028,7 +1028,7 @@ Hello, how can I help you?
 
 Can you please tell me how much the membership fee at this gym is?
 
-It's $35 per month. If you choose to pay annually, you'll only need to pay $350.
+It's 35 dollars per month. If you choose to pay annually, you'll only need to pay $350.
 
 That sounds good. What are your opening hours?
 
