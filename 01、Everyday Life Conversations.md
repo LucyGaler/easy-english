@@ -1304,118 +1304,60 @@ Me, too.
 
 ### New neighbor
 
-Hello.
+Hello. Welcome to the neighborhood.
 
-Welcome to the neighborhood.
+Hi, thank you. I'm Stacy.
 
-Hi, thank you.
+Pleased to meet you. I'm Amanda.
 
-I'm stacy, please to meet you.
+Nice to meet you as well. It's been a crazy few days of moving and unpacking. We haven't had a chance to introduce ourselves to anyone in the neighborhood yet.
 
-I'm amanda.
-
-Nice to meet you as well.
-
-It's been a crazy few days of moving and unpacking.
-
-We haven't had a chance to introduce ourselves to anyone in the neighborhood. Yet no worries at all.
-
-I could see you had your hands full trying to get settled.
-
-I wanted to wait a few days before stopping over to say hello.
+No worries at all. I could see you had your hands full trying to get settled. I wanted to wait a few days before stopping over to say hello.
 
 Thanks, have you lived here for a while?
 
-We have.
-
-We actually built our house about 15 years ago, and we've been here ever since.
+We have. We actually built our house about 15 years ago, and we've been here ever since.
 
 That's quite a while.
 
-That's right.
+That's right. Where did you guys move from?
 
-Where did you guys move from?
+We used to live in Atlanta. My boss asked me if I'd be willing to transfer to California, and I thought it would be great to move out here.
 
-We used to live in atlanta.
-
-My boss asked me if I'd be willing to transfer to california, and I thought it would be great to move out here.
-
-It is fantastic.
-
-The weather is great.
-
-The people are nice.
-
-It's a great place to be.
+It is fantastic. The weather is great. The people are nice. It's a great place to be.
 
 That's what I heard.
 
 So what do you do?
 
-I mean it.
-
-I work for a large computer company that developed software for lawyers and courthouses.
+I'm in IT. I work for a large computer company that develops software for lawyers and courthouses.
 
 That sounds interesting.
 
-It is.
-
-I really enjoy it.
-
-What about you?
-
-What do you do.
+It is. I really enjoy it. What about you? What do you do?
 
 I'm a nurse at the local hospital and my husband is a teacher at the high school.
 
-Nice.
+Nice. My husband worked as a realtor in Atlanta, and he hopes to continue to do that here.
 
-My husband worked as a realtor and atlanta, and he hopes to continue to do that here.
+I'm sure he will have no problem getting a job selling houses out here. The market is incredible right now.
 
-I'm sure he will have no problem getting a job selling houses out here.
+That's what we're hoping. Do you have any kids?
 
-The market is incredible right now.
+We have three boys. Aidan is 14. Ryan is 12, and Ian is 10.
 
-That's what we're hoping.
+That's awesome. We have two boys. Leo is 13, and Zack is 11.
 
-Do you have any kids?
-
-We have three boys.
-
-Aiden is 14.
-
-Ryan is 12, and ian is 10.
-
-That's awesome.
-
-We have two boys.
-
-Leo is 13, and zach is 11.
-
-Do they like to play basketball.
+Do they like to play basketball?
 
 They love basketball.
 
-That is great.
+That is great. We have a park with a nice basketball court at the end of the street, where my boys play all the time. I'm sure they'd love to take your boys there.
 
-We have a park with a nice basketball court at the end of the street, where my boys play all the time.
+That would be so nice. They've been dying to make some new friends and burn off some energy.
 
-I'm sure they'd love to take your boys there.
+Would you and your family like to come over for a cookout tonight? Nothing fancy-just some hot dogs and burgers? We could introduce our boys to each other and introduce our husbands as well. What do you think?
 
-That would be so nice.
-
-They've been dying to make some new friends in front of some energy.
-
-Would you and your family like to come over for a cookout tonight? Nothing fancy.
-
-Just some hot dogs and burgers.
-
-We could introduce our voice to each other and introduce our husbands as well.
-
-What do you think?
-
-Thank you so much.
-
-We would love that.
+Thank you so much. We would love that.
 
 It will be a funny evening for all of us.
