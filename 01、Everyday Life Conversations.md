@@ -1150,145 +1150,93 @@ Thank you very much for your help.
 
 ------
 
-005.Introducing Yourself and Meeting New People
+## 005.Introducing Yourself and Meeting New People
 
-Hey, looks like we're gonna be lab partners this semester.
 
-I'm emma.
 
-Hi, I'm trevor.
+### Chemical Laboratory
 
-Nice to meet you.
+Hey, looks like we're gonna be lab partners this semester. I'm Emma.
 
-Nice to meet you, too.
+Hi, I'm Trevor. Nice to meet you.
 
-You don't look very familiar to me, are you new to this school?
+Nice to meet you, too. You don't look very familiar to me, are you new to this school?
 
-I am my family and I just moved here last month.
+I am. My family and I just moved here last month.
 
-Where did you leave before we lived in mason heights?
+Where did you live before?
 
-Did you leave in mason?
+We lived in Mason Heights.
 
-Hide your whole life?
+Did you live in Mason Heights your whole life? Or were you born somewhere else?
 
-Or were you born somewhere else?
-
-I was born in mason heights and limped there until now.
+I was born in Mason Heights and lived there until now.
 
 When were you born?
 
-I was born on Dec 14th,2007.
+I was born on Dec 14th,2007. It was a Friday, at 6 o'clock in the morning. I guess I'm an early riser.
 
-It was a Friday at 6 o'clock in the morning.
+Friday is my favorite day of the week. It's the closest to the weekend, and we have less lessons than usual.
 
-I guess I'm an early riser.
+Yeah, it's my favorite day of the week, too. What about you? When were you born?
 
-Friday is my favourite day of the week.
+I was born on May 25th,2007.
 
-Is the closest to the weekend, and we have less lessons than usual.
+We're the same age. Were you born here, in Jeffersonville?
 
-Yeah, it's my favorite day of the week, too.
+No, I was born in Greece and moved here when I was 5 years old. My dad got a green card and got a job here.
 
-What about you?
+That's nice. So do you go back there very often?
 
-When were you born?
+Yes, my family and I spend our summer vacations in Greece, every 2 years, so it certainly feels like my second home. It's where my roots are.
 
-I was born on may 20, fifth,2007.
+Can you speak Greek?
 
-We're the same age.
+Yes, I can speak Greek fluently.
 
-Were you born here in jeffersonville.
+That's awesome. So do you like living here?
 
-No, I was born in greece and moved here when i was 5 years old.
+Yes, I love it. And I love this school, too. I feel so comfortable here because the teachers are really nice and helpful. I joined a lot of clubs when I came here and I have a lot of friends.
 
-My dad got a green card and got a job here.
+What sports facilities are there in this school?
 
-That's nice.
+We have a gym and a stadium. We are also lucky to have a swimming pool in our school. 
 
-So do you go back there very often.
+That's great to hear. I've been thinking of joining a sports club to try to meet more people.
 
-Yes, my family and I spend our summer vacations in greece every 2 years.
+That's a great idea. We have so many clubs for all kinds of sports and hobbies. What do you like to do?
 
-So it certainly feels like my second home.
-
-It's where my roots are.
-
-Can you speak greek?
-
-Yes, I can speak greek fluently.
-
-That's awesome.
-
-So do you like living here?
-
-Yes, I love it.
-
-And I love this school, too.
-
-I feel so comfortable here because the teachers are really nice and helpful.
-
-I joined a lot of clubs when I came here and I have a lot of friends.
-
-What sports facilities are there in this school, we have a team and a stadium.
-
-We are also lucky to have a swimming pool in our school.
-
-That's great to hear.
-
-I've been thinking of joining a sports club to try to meet more people.
-
-That's a great idea.
-
-We have so many clubs for all kinds of sports and hobbies.
-
-What do you like to do?
-
-I love athletics.
-
-That's my favorite thing.
-
-I also like swimming a lot.
-
-What is your favorite subject?
+I love Athletics. That's my favorite thing. I also like swimming a lot. What is your favorite subject?
 
 My favorite subject is science, because I like doing experiments.
 
-What subject do you find?
-
-The most difficult?
+What subject do you find the most difficult?
 
 It's social studies, because I have to take a lot of notes.
 
-My favorite subject is math.
-
-Because I like solving problems.
-
-The most difficult subject for me is history.
-
-I'm very bad at memorizing dates and names.
+My favorite subject is math, because I like solving problems. The most difficult subject for me is History. I'm very bad at memorizing dates and names.
 
 I pretty much feel the same way.
 
 What are some of your favorite places to go here?
 
-I like going to the mall. The park and a gram, plus a market on saturdays.
+I like going to the mall, the park and the Grand Plaza market on Saturdays.
 
 Is there a movie theater here?
 
-The mole has its own movie theater and is a short book from our school.
+The mall has its own movie theater and is a short walk from our school.
 
 It has all of the newly released movies.
 
 That's awesome.
 
-I'm going there.
+I'm going there this Saturday with some friends. You can join us if you like.
 
-This Saturday, with some friends.
+Great. I can't wait.
 
-You can join us. If you like great.
+------
 
-I can't wait.
+### Bookstore
 
 Excuse me, is this the right place for the meeting about the spain trip?
 
