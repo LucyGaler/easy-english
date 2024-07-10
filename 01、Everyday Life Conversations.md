@@ -1236,101 +1236,55 @@ Great. I can't wait.
 
 ------
 
-### Bookstore
+### Spain Trip
 
-Excuse me, is this the right place for the meeting about the spain trip?
+Excuse me, is this the right place for the meeting about the Spain trip?
 
-Yes, you're in the right place.
+Yes, you're in the right place. It seems we've arrived too early. Are you thinking of studying abroad in Spain next semester?
 
-It seems we've arrived too early.
+I am. I have been wanting to go on this trip since my freshman year.
 
-Are you thinking of studying abroad in spain next semester?
+Me, too. I'm very excited to hear all of the details. I'm Martin, by the way.
 
-I am.
+Nice to meet you, Martin, I'm Jasmine.
 
-I have been wanting to go on this trip since my freshman year.
+Do you speak Spanish?
 
-Me, too.
+I don't, but I'm hoping I'll learn during this trip. I've always wanted to become fluent in a second language. So I think this opportunity will be perfect for me. How about you? Do you speak Spanish?
 
-I'm very excited to hear all the details.
+I speak a little bit, but I want to improve. I actually speak French pretty well, so I'm hoping that will help.
 
-I'm martin by the way, nice to meet you.
+Are you from France?
 
-Martin, I'm jasmine.
+I was born in the states, but my parents are from Belgium.
 
-Do you speak spanish?
+How cool.
 
-I don't, but I'm hoping I'll learn during this trip.
+How about you? Where are you from?
 
-I've always wanted to become fluent in a second language.
+I was born in Chicago, but I grew up in Michigan.  Then I decided to move to Tennessee for college. How did you end up here at the University of Tennessee?
 
-So I think this opportunity will be perfect for me.
+Well, my parents moved from Belgium to Tennessee for my dad's job before I was born. Once they had me, they decided to stay in Tennessee and raise me here. So I've been in Tennessee all of my life.
 
-How about you?
+Is your family nearby?
 
-Do you speak spanish.
+They all live about 2 hours from here.
 
-I speak a little bit, but I want to improve.
+Do you have siblings?
 
-I actually speak french pretty well.
+No, I'm an only child. What about you?
 
-So I'm hoping that will help.
+I have an older sister who goes to college in New York. I don't get to see her very often, but we both try to get back to Michigan for the holidays.
 
-Are you from france?
+That's good. What is your major?
 
-I was born in the states, but my parents are from belgium.
+I'm studying International Business-hence the trip to Spain. I think it will be cool to learn about how other cultures conduct business and to learn a language.
 
-How cool?
-
-How about you?
-
-Where are you from?
-
-I was born in chicago, but I grew up in michigan.
-
-Then I decided to move to tennessee for college.
-
-How did you end up here at the university of tennessee?
-
-Well, my parents moved from belgium to tennessee for my dad's job.
-
-Before I was born.
-
-Once they had me, they decided to stay in tennessee and raised me here.
-
-So I've been in tennessee. All of my life.
-
-Is your family nearby.
-
-They all live about 2 h from here.
-
-Do you have siblings.
-
-No, I'm an only child.
-
-What about you?
-
-I have an older sister who goes to college in new york.
-
-I don't get to see her very often, but we both try to get back to michigan for the holidays.
-
-That's good.
-
-What is your major?
-
-I'm studying international business.
-
-Hence the trip to spain.
-
-I think it will be cool to learn about how other cultures conduct business and to learn a language.
-
-For sure that will be very useful.
+For sure. That will be very useful.
 
 What are you majoring in?
 
-I'm studying architecture.
-
-I wanna get to spain and get inspired by the amazing buildings and historical designs.
+I'm studying Architecture. I want to get to Spain and get inspired by the amazing buildings and historical designs.
 
 I bet they are beautiful.
 
@@ -1340,13 +1294,15 @@ Me, too.
 
 Would you be interested in getting a coffee after the meeting to talk about the trip?
 
-I would love that.
+I would love that. We will discuss all the details after the meeting.
 
-We will discuss all the details after the meeting.
-
-Great looking forward to it.
+Great. Looking forward to it.
 
 Me, too.
+
+------
+
+### New neighbor
 
 Hello.
 
