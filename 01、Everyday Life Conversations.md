@@ -1302,7 +1302,7 @@ Me, too.
 
 ------
 
-### New neighbor
+### New Neighbor
 
 Hello. Welcome to the neighborhood.
 
