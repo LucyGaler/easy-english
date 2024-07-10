@@ -1153,184 +1153,365 @@ Thank you very much for your help.
 005.Introducing Yourself and Meeting New People
 
 Hey, looks like we're gonna be lab partners this semester.
+
 I'm emma.
+
 Hi, I'm trevor.
+
 Nice to meet you.
+
 Nice to meet you, too.
+
 You don't look very familiar to me, are you new to this school?
+
 I am my family and I just moved here last month.
+
 Where did you leave before we lived in mason heights?
+
 Did you leave in mason?
+
 Hide your whole life?
+
 Or were you born somewhere else?
+
 I was born in mason heights and limped there until now.
+
 When were you born?
+
 I was born on Dec 14th,2007.
+
 It was a Friday at 6 o'clock in the morning.
+
 I guess I'm an early riser.
+
 Friday is my favourite day of the week.
+
 Is the closest to the weekend, and we have less lessons than usual.
+
 Yeah, it's my favorite day of the week, too.
+
 What about you?
+
 When were you born?
+
 I was born on may 20, fifth,2007.
+
 We're the same age.
+
 Were you born here in jeffersonville.
+
 No, I was born in greece and moved here when i was 5 years old.
+
 My dad got a green card and got a job here.
+
 That's nice.
+
 So do you go back there very often.
+
 Yes, my family and I spend our summer vacations in greece every 2 years.
+
 So it certainly feels like my second home.
+
 It's where my roots are.
+
 Can you speak greek?
+
 Yes, I can speak greek fluently.
+
 That's awesome.
+
 So do you like living here?
+
 Yes, I love it.
+
 And I love this school, too.
+
 I feel so comfortable here because the teachers are really nice and helpful.
+
 I joined a lot of clubs when I came here and I have a lot of friends.
+
 What sports facilities are there in this school, we have a team and a stadium.
+
 We are also lucky to have a swimming pool in our school.
+
 That's great to hear.
+
 I've been thinking of joining a sports club to try to meet more people.
+
 That's a great idea.
+
 We have so many clubs for all kinds of sports and hobbies.
+
 What do you like to do?
+
 I love athletics.
+
 That's my favorite thing.
+
 I also like swimming a lot.
+
 What is your favorite subject?
+
 My favorite subject is science, because I like doing experiments.
+
 What subject do you find?
+
 The most difficult?
+
 It's social studies, because I have to take a lot of notes.
+
 My favorite subject is math.
+
 Because I like solving problems.
+
 The most difficult subject for me is history.
+
 I'm very bad at memorizing dates and names.
+
 I pretty much feel the same way.
+
 What are some of your favorite places to go here?
+
 I like going to the mall. The park and a gram, plus a market on saturdays.
+
 Is there a movie theater here?
+
 The mole has its own movie theater and is a short book from our school.
+
 It has all of the newly released movies.
+
 That's awesome.
+
 I'm going there.
+
 This Saturday, with some friends.
+
 You can join us. If you like great.
+
 I can't wait.
+
 Excuse me, is this the right place for the meeting about the spain trip?
+
 Yes, you're in the right place.
+
 It seems we've arrived too early.
+
 Are you thinking of studying abroad in spain next semester?
+
 I am.
+
 I have been wanting to go on this trip since my freshman year.
+
 Me, too.
+
 I'm very excited to hear all the details.
+
 I'm martin by the way, nice to meet you.
+
 Martin, I'm jasmine.
+
 Do you speak spanish?
+
 I don't, but I'm hoping I'll learn during this trip.
+
 I've always wanted to become fluent in a second language.
+
 So I think this opportunity will be perfect for me.
+
 How about you?
+
 Do you speak spanish.
+
 I speak a little bit, but I want to improve.
+
 I actually speak french pretty well.
+
 So I'm hoping that will help.
+
 Are you from france?
+
 I was born in the states, but my parents are from belgium.
+
 How cool?
+
 How about you?
+
 Where are you from?
+
 I was born in chicago, but I grew up in michigan.
+
 Then I decided to move to tennessee for college.
+
 How did you end up here at the university of tennessee?
+
 Well, my parents moved from belgium to tennessee for my dad's job.
+
 Before I was born.
+
 Once they had me, they decided to stay in tennessee and raised me here.
+
 So I've been in tennessee. All of my life.
+
 Is your family nearby.
+
 They all live about 2 h from here.
+
 Do you have siblings.
+
 No, I'm an only child.
+
 What about you?
+
 I have an older sister who goes to college in new york.
+
 I don't get to see her very often, but we both try to get back to michigan for the holidays.
+
 That's good.
+
 What is your major?
+
 I'm studying international business.
+
 Hence the trip to spain.
+
 I think it will be cool to learn about how other cultures conduct business and to learn a language.
+
 For sure that will be very useful.
+
 What are you majoring in?
+
 I'm studying architecture.
+
 I wanna get to spain and get inspired by the amazing buildings and historical designs.
+
 I bet they are beautiful.
+
 I'm sure I'll take millions of photos.
+
 Me, too.
+
 Would you be interested in getting a coffee after the meeting to talk about the trip?
+
 I would love that.
+
 We will discuss all the details after the meeting.
+
 Great looking forward to it.
+
 Me, too.
+
 Hello.
+
 Welcome to the neighborhood.
+
 Hi, thank you.
+
 I'm stacy, please to meet you.
+
 I'm amanda.
+
 Nice to meet you as well.
+
 It's been a crazy few days of moving and unpacking.
+
 We haven't had a chance to introduce ourselves to anyone in the neighborhood. Yet no worries at all.
+
 I could see you had your hands full trying to get settled.
+
 I wanted to wait a few days before stopping over to say hello.
+
 Thanks, have you lived here for a while?
+
 We have.
+
 We actually built our house about 15 years ago, and we've been here ever since.
+
 That's quite a while.
+
 That's right.
+
 Where did you guys move from?
+
 We used to live in atlanta.
+
 My boss asked me if I'd be willing to transfer to california, and I thought it would be great to move out here.
+
 It is fantastic.
+
 The weather is great.
+
 The people are nice.
+
 It's a great place to be.
+
 That's what I heard.
+
 So what do you do?
+
 I mean it.
+
 I work for a large computer company that developed software for lawyers and courthouses.
+
 That sounds interesting.
+
 It is.
+
 I really enjoy it.
+
 What about you?
+
 What do you do.
+
 I'm a nurse at the local hospital and my husband is a teacher at the high school.
+
 Nice.
+
 My husband worked as a realtor and atlanta, and he hopes to continue to do that here.
+
 I'm sure he will have no problem getting a job selling houses out here.
+
 The market is incredible right now.
+
 That's what we're hoping.
+
 Do you have any kids?
+
 We have three boys.
+
 Aiden is 14.
+
 Ryan is 12, and ian is 10.
+
 That's awesome.
+
 We have two boys.
+
 Leo is 13, and zach is 11.
+
 Do they like to play basketball.
+
 They love basketball.
+
 That is great.
+
 We have a park with a nice basketball court at the end of the street, where my boys play all the time.
+
 I'm sure they'd love to take your boys there.
+
 That would be so nice.
+
 They've been dying to make some new friends in front of some energy.
+
 Would you and your family like to come over for a cookout tonight? Nothing fancy.
+
 Just some hot dogs and burgers.
+
 We could introduce our voice to each other and introduce our husbands as well.
+
 What do you think?
+
 Thank you so much.
+
 We would love that.
+
 It will be a funny evening for all of us.
